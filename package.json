@@ -1,0 +1,21 @@
+{
+  "name": "minicurso",
+  "version": "1.0.0",
+  "description": "backend with nodejs",
+  "main": "app.js",
+  "dependencies": {
+      "express": "*",
+      "body-parser": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danrleyt/minicurso_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "dan",
+  "license": "ISC"
+
+}
